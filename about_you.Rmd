@@ -70,7 +70,7 @@ The army was my first experience with foreign travel. For whatever stupid reason
 
 ##my answer   
   
-   
+I am going to answer a slightly different question, why am I teaching 115. I was the head of the mathematical support, now statistical consultant group at the Air Force Flight Test Cent at Edwards AFB. New engineers were continually being hired and not a single one of them knew anything about testing.  This is truly unacceptable. The ideas of experimental design are part of softmore class in statistics and should have been talked about in the first statistics class. Not a single one seemed to be able to conduct a t-test or know  when or why you would do that.   I wanted to have a class where people coming out of it had the skills to actuall do the work.
  
 
 
