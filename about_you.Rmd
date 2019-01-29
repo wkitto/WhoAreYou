@@ -1,6 +1,6 @@
 ---
 title: "DA who I am"
-author: "Your Full Name Here"
+author: "Dr K"
 date: "Spring 2019"
 output: html_document
 ---
